@@ -1,0 +1,1 @@
+{"name": "ai-projects-manager", "version": "1.0.0", "scripts": { "projects:new": "node scripts/newProject.js", "projects:manage": "node scripts/manageProjects.js", "projects:screenshot": "node scripts/screenshotProjects.js", "setup": "npm install" }}
